@@ -1,0 +1,7 @@
+pytesseract
+opencv-python
+numpy
+mysql-connector-python
+pdf2image
+pymupdf
+python-multipart
